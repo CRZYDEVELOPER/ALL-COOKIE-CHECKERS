@@ -1,6 +1,7 @@
 import easygui,os,re,colorama,ctypes
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor
+colorama.init()
 if os.path.exists(os.path.join(os.getcwd(),"Result")):
     pass
 else:
