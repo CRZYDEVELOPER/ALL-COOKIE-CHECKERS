@@ -1,0 +1,5 @@
+requests
+url_parser
+urllib3
+easygui
+colorama
