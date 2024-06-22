@@ -1,0 +1,7 @@
+expressvpn
+netflix
+hmavpn
+playstation
+epicgames
+azure
+aws
