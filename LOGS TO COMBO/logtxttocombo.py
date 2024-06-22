@@ -5,6 +5,10 @@ from datetime import datetime
 import ctypes,colorama
 import threading
 colorama.init()
+if os.path.exists(os.path.join(os.getcwd(),"Result")):
+    pass
+else:
+    os.mkdir("Result")
 import easygui
 class LOGSTOCOMBOS:
     def __init__(self) -> None:
