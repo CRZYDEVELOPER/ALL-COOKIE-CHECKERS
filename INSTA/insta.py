@@ -10,10 +10,6 @@ from conn import conn
 import colorama
 import random
 import time
-from selenium import webdriver
-from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.by import By
 import sys
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -110,28 +106,7 @@ class INSTAGRAM:
                     except Exception:
                         continue
 
-        return cookies, 
-    def mass_dm(self):
-        sb=webdriver.Firefox()
-        sb.get("https://www.instagram.com/")
-        cookie = {
-    'datr': 'QC4pZtYrGs0wd4CJ-ImeZgVC',
-    'ig_did': '6DDF5C71-8F40-4085-B81D-63D082A66B88',
-    'mid': 'Zi5tOAALAAGKVZSMczFaQVf7lKE0',
-    'shbid': '7640\0549708602258\0541746379321:01f7d06c0331b7292fbe13ccee91be8860e2a2177b5036bff4195645057cb03e9cfa5b9f',
-    'shbts': '1714843321\0549708602258\0541746379321:01f768737297ea792b1e66bc48520ebbb3e7da9b057fbf523aeb3645a0ab2c1bdfc5949e',
-    'ps_l': '1',
-    'ps_n': '1',
-    'sessionid': '9708602258%3AXqbQ64IeS6eDlO%3A11%3AAYeJ3_QhSn0XbKIryE8iuHGP97ZI9xtsixdhaSZfTVU',
-    'csrftoken': 'BmlKnGL2fLqsrCPw8S2msWgoGgvXKsw5',
-    'ds_user_id': '9708602258                                                     '
-}
-
-        for key,value in cookie.items():
-            sb.add_cookie({'name': key, 'value': value})
-        sb.get("https://www.instagram.com/")
-        sb.get("https://www.instagram.com/zainabkashifbutt")
-        time.sleep(24)
+        return cookies,NF_line
     def spam_comments(self,cookies,postid,comments,filname):
         BINA=f"https://www.instagram.com/api/v1/web/comments/{postid}/add/"
         important={"comment_text":f"{comments}"}
@@ -198,14 +173,6 @@ class INSTAGRAM:
                     continue
             executor.shutdown(wait=True)
             self.ui()
-            
-            
-            
-        
-                    
-#)            
-        
-
     def getuserinfo(self,cookie,insta_lines,filename,dt,fil):
         cookie_string = "; ".join([f"{name}={value}" for name, value in cookie.items()])
         uru='https://www.instagram.com/api/v1/accounts/edit/web_form_data/'
