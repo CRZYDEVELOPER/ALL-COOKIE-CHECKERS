@@ -1,6 +1,10 @@
 import easygui,os,re,colorama,ctypes
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor
+if os.path.exists(os.path.join(os.getcwd(),"Result")):
+    pass
+else:
+    os.mkdir("Result")
 class EVO:
     def ui(self):
         os.system('cls')
