@@ -190,7 +190,7 @@ class SPOTIFYCOOKIE:
                                 if hemidal=="":
                                     pass
                                 else:
-                                    self.tgmessgaes(hemidal,filuy)
+                                    pass
                             except:
                                 pass
                         if saveorono==True:
