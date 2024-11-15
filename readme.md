@@ -1,8 +1,8 @@
-😎THESE ALL TOOLS ARE BY @BINARY_THUG
+😎THESE ALL TOOLS ARE BY @BACKUP_BINARY_THUG
 =========================================
 IT CONTAINS
 NETFLIX,OUTLOOK,SPOTIFY,ETC COOKIE CHECKER
-U CAN FIND MY TELEGRAM @BACKUP_BINARY_THUG
+U CAN FIND MY TELEGRAM 
 ========================================
 THIS IS ONLY FOR EDUCATIONAL PURPOSE
 ===========================================
