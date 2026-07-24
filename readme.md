@@ -1,5 +1,6 @@
 😎MY TG ACCOUNT IS DEAD DONT CONTACT ME THERE
-if u contact there i am not responsible for any fraudulent or scam
+Contact me here
+@nutt_job
 =========================================
 IT CONTAINS
 NETFLIX,OUTLOOK,SPOTIFY,ETC COOKIE CHECKER
