@@ -1,6 +1,6 @@
 # 🍪 ALL COOKIE CHECKERS SOURCE CODE
 
-A collection of multi-threaded cookie checker source codes for various platforms (Netflix, Spotify, Prime Video, Crunchyroll, Steam, Discord, etc.).
+A collection of multi-threaded cookie checker source codes for various platforms (Netflix, Spotify,Others).
 
 ---
 
