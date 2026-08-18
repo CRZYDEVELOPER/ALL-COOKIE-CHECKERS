@@ -10,7 +10,7 @@ To prevent IP blocks and rate limits while checking:
 
 ---
 
-### 🎯 Included Checkers:
+### 🎯 Included Checkers AND BOTS:
 * 🎬 **Netflix** Cookie Checker
 * 🎵 **Spotify** Cookie Checker
 * ➕ And more...
