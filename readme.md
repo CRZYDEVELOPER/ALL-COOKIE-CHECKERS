@@ -1,20 +1,27 @@
-😎MY old TG ACCOUNT IS DEAD DONT CONTACT ME THERE
+# 🍪 ALL COOKIE CHECKERS SOURCE CODE
 
-Contact me here on tg 
-@nutt_job
+A collection of multi-threaded cookie checker source codes for various platforms (Netflix, Spotify, Prime Video, Crunchyroll, Steam, Discord, etc.).
 
-Available for Custom request
+---
 
-=========================================
+### ⚡ Recommended Proxies (Required to Avoid Bans)
+To prevent IP blocks and rate limits while checking:
+👉 **[Get High-Speed Anonymous Proxies on FineProxy](https://fineproxy.org/account/aff.php?aff=312)**
 
-IT CONTAINS
-NETFLIX,OUTLOOK,SPOTIFY,ETC COOKIE CHECKER
-U CAN FIND MY TELEGRAM 
+---
 
-========================================
+### 🎯 Included Checkers:
+* 🎬 **Netflix** Cookie Checker
+* 🎵 **Spotify** Cookie Checker
+* ➕ And more...
 
-THIS IS ONLY FOR EDUCATIONAL PURPOSE
+---
 
-===========================================
+### 📩 Contact
+* 😎 **Telegram:** [@nutt_job](https://t.me/nutt_job) *(Old TG account is dead, message me here)*
+* 💼 **Available for custom requests and private checker development**
 
-](https://github.com/CRZYDEVELOPER/ALL-COOKIE-CHECKERS/edit/main/readme.md)
+---
+
+### ⚠️ Disclaimer
+**THIS SOFTWARE IS FOR EDUCATIONAL AND RESEARCH PURPOSES ONLY.**
